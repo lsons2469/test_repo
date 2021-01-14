@@ -10,4 +10,11 @@ public class MasterFile {
     public void alphaMethod(){
         System.out.println("Alpha Uploaded")
     }
+
+    public void multiMethod(int num1, int num2){
+        int num1;
+        int num2;
+        int result = num1 * num2;
+        return result;
+    }
 }

@@ -6,4 +6,8 @@ public class MasterFile {
     public void firstMethod(){
         System.out.println("First method");
     }
+
+    public void alphaMethod(){
+        System.out.println("Alpha Uploaded")
+    }
 }
